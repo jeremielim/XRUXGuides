@@ -1,4 +1,4 @@
-While looking through a few XR UX guidelines about where to put things in your 3D scene, I found it difficult to visualize the recommendations that had specific angles and measurements. I'm trying to convert these into a first-person, in-device experience to develop a better feel for them.
+While looking through a few XR UX guidelines about where to put things in a 3D scene, I found it difficult to visualize the recommendations that had specific angles and measurements. I'm trying to convert these into a first-person, in-device experience to develop a better feel for them.
 
 ### Field of view
 ![com jeremielim XRUXGuides-20220823-172121](https://user-images.githubusercontent.com/692129/186330168-bc3e38ea-459d-4e0e-9afb-f544d11566e0.jpg)
